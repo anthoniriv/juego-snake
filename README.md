@@ -4,6 +4,8 @@
 
 **A neon-themed Snake game by ONILABS — built in a single HTML file.**
 
+<img src="screenshot.png" alt="Carlos The Snake screenshot" width="600">
+
 <p>
   <a href="https://anthoniriv.github.io/juego-snake/"><img src="https://img.shields.io/badge/Play_Now-00C853?style=for-the-badge&logo=github" alt="Play Now"></a>
 </p>
