@@ -1,63 +1,57 @@
-<div align="center">
-
-# 🐍 Carlos The Snake
-
-**A neon-themed Snake game by ONILABS — built in a single HTML file.**
-
-<img src="screenshot.png" alt="Carlos The Snake screenshot" width="600">
-
-<p>
-  <a href="https://anthoniriv.github.io/juego-snake/"><img src="https://img.shields.io/badge/Play_Now-00C853?style=for-the-badge&logo=github" alt="Play Now"></a>
+<p align="center">
+  <b>🐍 Carlos The Snake</b><br>
+  <sub>Un Snake de estética neón hecho por ONILABS — todo en un solo archivo HTML.</sub>
 </p>
 
-<p>
+<p align="center">
+  <img src="screenshot.png" alt="Carlos The Snake" width="560">
+</p>
+
+<p align="center">
+  <a href="https://anthoniriv.github.io/juego-snake/"><img src="https://img.shields.io/badge/Jugar_ahora-00C853?style=for-the-badge&logo=github" alt="Jugar ahora"></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5&logoColor=white" alt="Canvas">
-  <img src="https://img.shields.io/badge/Hosted-GitHub_Pages-222222?style=flat&logo=github" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/Canvas-E34F26?style=flat&logo=html5&logoColor=white" alt="Canvas">
+  <img src="https://img.shields.io/badge/Hosting-GitHub_Pages-222222?style=flat&logo=github" alt="GitHub Pages">
 </p>
 
-</div>
+---
+
+## Qué hace
+
+Ayudás a **Carlos**, la serpiente, a comer y crecer. Un Snake clásico con estética neón, niveles que aceleran la velocidad a medida que sumás puntos, y un récord que persiste en tu navegador.
+
+## Funcionalidades
+
+- Estilo neón con gradientes animados y efecto de brillo.
+- Dificultad progresiva: **sube de nivel cada 50 puntos** y acelera.
+- Récord guardado en `localStorage` (`carlos_best`).
+- Controles táctiles (D-pad y swipe) para móvil.
+- Pantallas de inicio y *game over* con el puntaje final.
+
+## Jugar
+
+**[anthoniriv.github.io/juego-snake](https://anthoniriv.github.io/juego-snake/)** · [Ver código](https://github.com/anthoniriv/juego-snake)
+
+## Controles
+
+| Entrada | Acción |
+|---------|--------|
+| ⌨️ Flechas / WASD | Mover |
+| Espacio / Enter | Empezar |
+| 📱 D-pad o swipe | Mover (móvil) |
+
+## Uso local
+
+Abrí `index.html` en cualquier navegador — sin build, sin dependencias.
+
+## Tecnologías
+
+| Capa | Stack |
+|------|-------|
+| Lógica | JavaScript (vanilla) |
+| Render | HTML5 Canvas |
+| Estilos | CSS inline (un solo archivo) |
 
 ---
 
-## What It Is
-
-Help Carlos the snake eat and grow. A classic Snake game with a neon aesthetic, levels that speed up as you score, and a persistent best score.
-
-## ▶️ Play
-
-**[anthoniriv.github.io/juego-snake](https://anthoniriv.github.io/juego-snake/)** · [View source](https://github.com/anthoniriv/juego-snake)
-
-## Controls
-
-| Input | Control |
-| --- | --- |
-| ⌨️ Arrow keys / WASD | Move |
-| Space / Enter | Start |
-| 📱 D-pad or swipe | Move (mobile) |
-
-## Features
-
-- Neon glow visual style with animated gradients.
-- Progressive difficulty: speed increases every **50** points.
-- Best score persisted locally (`localStorage`).
-
-## Tech
-
-| Area | Stack |
-| --- | --- |
-| Logic | Vanilla JavaScript |
-| Rendering | HTML5 Canvas |
-| Styling | Inline CSS (single file) |
-
-## Run Locally
-
-Open `index.html` in any browser — no build, no dependencies.
-
----
-
-<div align="center">
-
-Made with ❤️ by [ONILABS](https://github.com/anthoniriv)
-
-</div>
+<p align="center"><sub>Hecho con ❤️ por <a href="https://github.com/anthoniriv">ONILABS</a></sub></p>
